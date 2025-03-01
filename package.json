@@ -1,0 +1,12 @@
+{
+  "name": "simulador_corridas",
+  "version": "1.0.0",
+  "description": "Simulador de corridas do Mario Kart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kayene Teixeira",
+  "license": "ISC"
+}
